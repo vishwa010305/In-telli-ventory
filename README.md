@@ -1,5 +1,3 @@
-# SDP
+# Intelli Inventory Management
 
--> Clone this Repo
--> npm i
--> npm run dev
+
